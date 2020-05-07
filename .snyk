@@ -6,4 +6,8 @@ ignore:
     - adm-zip:
         reason: Test
         expires: '2020-04-25T21:51:01.424Z'
+  SNYK-JS-HANDLEBARS-173692:
+    - '*':
+        reason: testing
+        expires: 2020-12-31T00:00:00.000Z
 patch: {}
